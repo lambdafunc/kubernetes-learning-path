@@ -4,29 +4,23 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 
 ## Kubernetes Learning Roadmap
 
-The Kubernetes Learning Roadmap is constantly updated with new content, so you can be sure that you're getting the latest and most up-to-date information available. 
+The Kubernetes Learning Roadmap is constantly updated with new content, so you can be sure you're getting the latest information. 
 
-# Kubernetes Certification Voucher (UpTo 38% OFF) 🎉
+## Kubernetes Certification Voucher (Up to 38% OFF) 🎉
 
 As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
 
 > [!IMPORTANT]
-> 🚀  Kubernetes Certification aspirants can **save 30%** today using code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
-
-The following are the best bundles to **save 38% (up to $788)** with code **DCUBE30**
-
-- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+> 🚀  Kubernetes Certification aspirants can **save 30%** today using code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops). It is a limited-time offer from the Linux Foundation.
 
 > [!NOTE]
->⌛ Act fast—this limited-time offer won’t be around much longer!
-> You have one year of validity to appear for the certification exam after registration
+> Check out all the latest bundle offers at the [Linux Foundation Coupon](https://github.com/techiescamp/linux-foundation-coupon) repo.
+> ⌛ Act fast—this limited-time offer won’t be around much longer! You have one year of validity to appear for the certification exam after registration
 
 ## Kubernetes Learning Prerequisites(Core IT Fundamentals)
+
+> [!NOTE]
+>Note: If you are looking for a structured course to learn Kubernetes and prepare for the CKA exam, check out the [Complete Kubernetes and CKA course](https://courses.devopscube.com/p/certified-kubernetes-administrator-course). Use code **DCUBE30** to get a 30% discount.
 
 If you want to learn Kubernetes, it is important to start with the basics. 
 
@@ -37,7 +31,7 @@ Once you have a good grasp of the basics, learning Kubernetes can be fun and eas
 <img src="https://github.com/user-attachments/assets/b489c341-a1ca-4b47-bea9-b0c88f3b8b12" width="700" />
 
 
-Here are the resources to brush up the core fundamentals to master kubernetes.
+Here are the resources to brush up on the core fundamentals to master Kubernetes.
 
 - [Learn Container concepts & Container Management Tool- Docker/Podman](https://techiescamp.com/p/container-fundamentals-course)<sup>Free Course</sup>
 - [Understand Distributed system](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c) <sup>Blog</sup>
@@ -56,11 +50,11 @@ Here are the resources to brush up the core fundamentals to master kubernetes.
 
 ## Kubernetes Architecture
 
-Refer to the following documents to learn about every kubernetes component in detail.
+Refer to the following documents to learn about every Kubernetes component in detail.
 
 - [Kubernetes Architecture Explained](https://devopscube.com/kubernetes-architecture-explained/)<sup>Blog</sup>
 
-The following image shows the high-level kubernetes architecture and how external services connect to the cluster.
+The following image shows the high-level Kubernetes architecture and how external services connect to the cluster.
 
 <img src="https://github.com/user-attachments/assets/2d363967-d0a9-47df-92d3-1959a400abd6" alt="01-k8s-prerequites-1" width="700" />
 
